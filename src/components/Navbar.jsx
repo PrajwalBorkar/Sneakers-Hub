@@ -14,7 +14,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="p-1 md:p-4 flex items-center justify-between h-10 w-full">
+    <div className="p-1 md:p-4 flex items-center justify-between h-15 w-full">
       <div className="flex flex-row items-center gap-2">
         <img src={logo} alt="" height={60} width={60} className="dark:hidden" />
         <img
